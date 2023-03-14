@@ -1,6 +1,6 @@
 # Hola, soy Alejandro Boattini 👋
 
-Soy un ingeniero industrial y analista de datos apasionado por la creación de soluciones eficientes y eficaces mediante el análisis de datos y el uso de herramientas tecnológicas. 
+Soy un ingeniero industrial y analista de datos apasionado por la creación de soluciones eficientes y eficaces mediante el análisis de datos y el uso de herramientas tecnológicas. En este repositorio subo a menudo las practicas que realizo sobre ML, los proyectos llevado a cabo en industrias se mantienen privados y a dispocision de la empresa por confidencialidad.
 
 ## Experiencia
 
