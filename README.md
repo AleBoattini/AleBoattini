@@ -40,9 +40,12 @@ En TDS Misiones, diseñé e implementé una base de datos y un dashboard para la
 - Gran parte de aprendizaje autonomo
 
 ## Referentes
+- Gilberto Bastasin (Key Account Executive-Papel Misionero SAIFC) +54 2323 636165
+- Jorge D. Kundusz (Referente y Líder Negocio Bolsas - Grupo ARCOR) +54 11 34100842
+- Ing. Sebastian Vaqueros (Jefe de Logística-Papel Misionero SAIFC) +54 3743 668176
+- Julio Cesar Pérez Alvarado (Ingeniero CMASS/HSEQ Gestión Integral) +54 3755 450038
 
-Gilberto Bastasin (Key Account Executive-Papel Misionero SAIFC) +54 2323 636165
-Jorge D. Kundusz (Referente y Líder Negocio Bolsas - Grupo ARCOR) +54 11 34100842
-Ing. Sebastian Vaqueros (Jefe de Logística-Papel Misionero SAIFC) +54 3743 668176
-Julio Cesar Pérez Alvarado (Ingeniero CMASS/HSEQ Gestión Integral) +54 3755 450038
+
+
+
 
