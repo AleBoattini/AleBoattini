@@ -4,6 +4,15 @@ Soy un ingeniero industrial y analista de datos apasionado por la creación de s
 
 ## Experiencia
 
+### Consultor de Bussines Inteligent
+#### Julio 2023 - Actualidad
+
+Recolección de requisitos, diseño de soluciones, desarrollo y implementación, capacitación y soporte, analisis y interpretación. Son un poco de las tantas cosas que llevo adelante en conjunto con los equipos ya formados en la industria. Y podiendo asi destacar la:
+
+Elaboracion de Objetivos, OKRs, KPIs, Dashboard, Analisis de datos. Con fuerte enfoque en la herramienta de PowerBI y en menor medida tratamientos de datos en Python con Pandas y diversas bibliotecas.
+
+
+
 ### Analista de Expedición en Papel Misionero SAIFC-Grupo Arcor
 #### Agosto 2022 - Febrero 2023
 
@@ -15,10 +24,6 @@ Logros:
 - Inventarié y mantuve el control del stock del depósito en un 100%.
 - Cumplimos con los plazos de entrega del 90% de las ventas.
 
-### Analista de Datos en Total
-#### Junio 2022 - Agosto 2022
-
-En Total, planifiqué e implementé herramientas de análisis que me permitieron evaluar el desempeño del programa de calidad de la compañía. Llevé a cabo un proceso riguroso de Data Wrangling para garantizar la integridad y fiabilidad de los datos. Creé un modelo relacional en esquema estrella y varios dashboards interactivos para el seguimiento y reporte de los indicadores logísticos clave, brindando una visión detallada del rendimiento, lo que permitió cumplir con los requisitos de calidad de la compañía.
 
 ### Práctica Profesional Supervisada en TDS Misiones
 #### Marzo 2022 - Junio 2022
@@ -34,16 +39,11 @@ En TDS Misiones, diseñé e implementé una base de datos y un dashboard para la
 
 ## Cursos y Capacitaciones
 
+- IA Aplicada a la Ingenieria
 - Data Science: Coderhouse
 - Curso Excel y Power BI – Análisis y Visualizacion de datos
 - Varios cursos de Excel
 - Gran parte de aprendizaje autonomo
-
-## Referentes
-- Gilberto Bastasin (Key Account Executive-Papel Misionero SAIFC) +54 2323 636165
-- Jorge D. Kundusz (Referente y Líder Negocio Bolsas - Grupo ARCOR) +54 11 34100842
-- Ing. Sebastian Vaqueros (Jefe de Logística-Papel Misionero SAIFC) +54 3743 668176
-- Julio Cesar Pérez Alvarado (Ingeniero CMASS/HSEQ Gestión Integral) +54 3755 450038
 
 
 
