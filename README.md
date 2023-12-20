@@ -1,34 +1,41 @@
 # Hola, soy Alejandro Boattini 👋
 
-Soy un ingeniero industrial y analista de datos apasionado por la creación de soluciones eficientes y eficaces mediante el análisis de datos y el uso de herramientas tecnológicas. En este repositorio subo a menudo las practicas que realizo sobre ML, los proyectos llevado a cabo en industrias se mantienen privados y a dispocision de la empresa por confidencialidad.
+Me gradué como ingeniero industrial y enfoqué mi experiencia en encontrar soluciones basadas en datos. Por lo tanto, te encontrarás
+con análisis de datos, construcción de tableros de control, KPIs y OKRs. Parte de aplicar ingeniería a esto es el análisis de resultados,
+la mejora continua, la evaluación de problemas y la medición de procesos.
+Actualmente, estoy aprendiendo herramientas de Machine Learning que puedan ser usadas en el sector para automatizar tareas o
+facilitar resultados. Y me desempeño como Consultor BI en mi día a día.
+
 
 ## Experiencia
 
-### Consultor de Bussines Inteligent
-#### Julio 2023 - Actualidad
+### Business Intelligence Consultant
+#### Junio 2023 - Actualidad
 
-Recolección de requisitos, diseño de soluciones, desarrollo y implementación, capacitación y soporte, analisis y interpretación. Son un poco de las tantas cosas que llevo adelante en conjunto con los equipos ya formados en la industria. Y podiendo asi destacar la:
-
-Elaboracion de Objetivos, OKRs, KPIs, Dashboard, Analisis de datos. Con fuerte enfoque en la herramienta de PowerBI y en menor medida tratamientos de datos en Python con Pandas y diversas bibliotecas.
+Análisis de datos, analisis estadisticos, tableros de control, elaboracion de OKRs, kPIs.
+Analisis de actividades y Procesos.
 
 
 
 ### Analista de Expedición en Papel Misionero SAIFC-Grupo Arcor
 #### Agosto 2022 - Febrero 2023
 
-En Papel Misionero SAIFC-Grupo Arcor, fui responsable de la planificación del despacho de productos terminados, utilizando herramientas de análisis de datos para evaluar el desempeño de las decisiones tomadas y proporcionar informes precisos y oportunos a diferentes áreas de la organización. Implementé un proceso que aseguró la integridad y la calidad de los datos, lo que permitió la toma de decisiones con indicadores (KPIs) fiables y precisos.
+El desarrollo de la actividad tuvo el objetivo de mejorar el flujo de productos del deposito y la informacion entre las distintas areas realizando:
+- Planificacion de despachos y Gestion de Inventarios
+- Analisis de Datos y elaboracion de metricas (KPIs)
+- Elaboracion de Dashboards en Excel y Microstrategy
+- Reduccion de ocupacion del deposito y mejoras en tiempos de despachos.
 
-Logros:
-- Establecí la ocupación del depósito de un 80% a un 30%.
-- Mejoré el tiempo de despacho de 5 días a 2 días.
-- Inventarié y mantuve el control del stock del depósito en un 100%.
-- Cumplimos con los plazos de entrega del 90% de las ventas.
 
 
 ### Práctica Profesional Supervisada en TDS Misiones
 #### Marzo 2022 - Junio 2022
 
-En TDS Misiones, diseñé e implementé una base de datos y un dashboard para la planificación de mantenimientos con un enfoque en la eficiencia y efectividad. Desarrollé una base de datos robusta y escalable para almacenar información relacionada con la planificación de mantenimientos y creé un dashboard interactivo para el seguimiento y reporte de la planificación de mantenimientos, brindando una visión general de las tareas programadas y las realizadas. Alcancé un seguimiento del 70% de los clientes, optimizando la atención y el cumplimiento de sus necesidades. También aumenté los ingresos por la prestación de servicios gracias a una mejor planificación y seguimiento de las tareas de mantenimiento.
+Las practicas se basaron en el diseño y implementacion de una base de datos para la planificación de mantenimientos.
+• Desarrollo de base de datos escalable
+• Normalizacion y registro de los datos de la compañia
+• Elaboracion de indicadores claves para sus objetivos comerciales
+• Elaboracion de dashboard para la planificacion de mantenimientos y visualizacion del alcance a sus objetivos
 
 ## Educación
 
